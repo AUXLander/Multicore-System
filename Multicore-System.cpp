@@ -37,7 +37,6 @@ int main(){
 	cin >> queueSize;
 	cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
 
-	TQueue<int> q(10);
 	TaskManager Alena(qTask, qKernel, countKernels, countTicks, queueSize);
 	Alena.StartManage();
 	
