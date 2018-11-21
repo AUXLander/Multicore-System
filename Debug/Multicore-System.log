@@ -1,0 +1,7 @@
+﻿  Multicore-System.cpp
+c:\users\auxla\desktop\lab 4.0\multicore-system\multicore.h(4): warning C4005: RAND_MAX: изменение макроопределения
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdlib.h(344): note: см. предыдущее определение "RAND_MAX"
+c:\users\auxla\desktop\lab 4.0\multicore-system\multicore.h(24): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "__throwif__"
+c:\users\auxla\desktop\lab 4.0\multicore-system\multicore.h(29): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "__throwif__"
+c:\users\auxla\desktop\lab 4.0\multicore-system\multicore.h(35): warning C4003: недостаточно аргументов для вызова макроса, подобного функции, "__throwif__"
+  Multicore-System.vcxproj -> C:\Users\auxla\Desktop\Lab 4.0\Multicore-System\Debug\Multicore-System.exe
