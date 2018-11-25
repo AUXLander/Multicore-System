@@ -38,8 +38,8 @@ int main(){
 	cout << "~~~~~~~~~~~~~~~~~~~~~~~~~~" << endl;
 
 	TQueue<int> q(10);
-	TaskManager Alena(qTask, qKernel, 5, 100000, 100);
-	Alena.StartManage();
+	TaskManager tProcessor(qTask, qKernel, 5, 100000, 100);
+	tProcessor.StartManage();
 	
 	system("pause");
 	return 0;
